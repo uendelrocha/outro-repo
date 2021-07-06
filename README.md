@@ -11,4 +11,4 @@ git remote add origin git@github.com:uendelrocha/outro-repo.git
 git push -u origin main
 
 Por sua vez, esta observação foi editada usando o editor de arquivos da página do github.
-Este arquivo será atualizado localmente por meio do comando checkout.
+Este arquivo será atualizado localmente por meio do comando git pull.
