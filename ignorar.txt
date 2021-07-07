@@ -1,0 +1,2 @@
+Este arquivo deve ser ignorado.
+Será gravado no repositório remoto e daí ignorado e excluído do projeto.
